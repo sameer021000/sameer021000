@@ -85,39 +85,76 @@ I'm a Computer Science graduate and software developer focused on building pract
 <tr>
 <td width="50%" valign="top">
 
-### 📓 NoteCalc
+<h3>📓 NoteCalc</h3>
 
-An Android expense management application focused on practical record, budget and list management.
+<p>
+<b>Offline-first Android Expense Tracker & Calculator</b>
+</p>
 
-**Tech:** Java • XML • Android
+<p>
+A practical Android application for managing expenses, budgets, accounts, groups and financial records.
+</p>
 
-**Highlights**
-- Expense & record management
-- Budget and list workflows
-- PDF export
-- File attachments
-- Archive / trash workflows
-- NC Agent integration
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/XML-005571?style=flat-square&logo=xml&logoColor=white">
+</p>
 
-<a href="https://github.com/sameer021000/NoteCalc">View Repository →</a>
+<p><b>✨ Highlights</b></p>
+
+<ul>
+<li>💰 Expense & Budget Tracking</li>
+<li>📋 Lists, Groups & Accounts</li>
+<li>🔎 Search, Filtering & Custom Sorting</li>
+<li>📄 PDF Reports & Exports</li>
+<li>📎 File Attachments & Camera Capture</li>
+<li>💾 JSON Backup & Restore</li>
+<li>📦 Archive System</li>
+<li>☁️ Cloud Folder Synchronization</li>
+</ul>
+
+<p>
+<a href="https://github.com/sameer021000/NoteCalc">
+<img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📿 Smart Tasbeeh
+<h3>📿 Smart Tasbeeh</h3>
 
-An Android Tasbeeh counter application designed for simple and focused daily use.
+<p>
+<b>Android Tasbeeh Counter</b>
+</p>
 
-**Tech:** Java • XML • Android
+<p>
+A focused Android application designed for simple, convenient and persistent Tasbeeh counting.
+</p>
 
-**Highlights**
-- Tasbeeh counter
-- Target-based counting
-- Clean Android UI
-- Persistent app data
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/XML-005571?style=flat-square&logo=xml&logoColor=white">
+</p>
 
-<a href="https://github.com/sameer021000/Smart-Tasbeeh">View Repository →</a>
+<p><b>✨ Highlights</b></p>
+
+<ul>
+<li>📿 Tasbeeh Counter</li>
+<li>🎯 Target-based Counting</li>
+<li>💾 Persistent Data</li>
+<li>📱 Clean Android UI</li>
+<li>⚡ Simple & Focused Experience</li>
+</ul>
+
+<p>
+<a href="https://github.com/sameer021000/Smart-Tasbeeh">
+<img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 </td>
 </tr>
@@ -125,41 +162,77 @@ An Android Tasbeeh counter application designed for simple and focused daily use
 <tr>
 <td width="50%" valign="top">
 
-### 💻 CRUD Website
+<h3>💻 CRUD Website</h3>
 
-A responsive full-stack MERN application for authentication and CRUD operations.
+<p>
+<b>Full-Stack MERN CRUD Application</b>
+</p>
 
-**Tech:** React • Node.js • Express • MongoDB
+<p>
+A responsive full-stack web application featuring authentication, secure password handling and CRUD-based data management.
+</p>
 
-**Highlights**
-- Sign up / Sign in
-- Password hashing
-- Token-based authentication
-- CRUD operations
-- MongoDB Atlas
-- Vercel + Render deployment
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</p>
 
-<a href="https://github.com/sameer021000/CRUD_Website">View Repository →</a>
+<p><b>✨ Highlights</b></p>
+
+<ul>
+<li>🔐 Sign Up & Sign In</li>
+<li>🔑 Password Hashing</li>
+<li>🎫 Token-based Authentication</li>
+<li>📝 Complete CRUD Operations</li>
+<li>☁️ MongoDB Atlas</li>
+<li>🚀 Vercel + Render Deployment</li>
+</ul>
+
+<p>
+<a href="https://github.com/sameer021000/CRUD_Website">
+<img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💎 JafarStore
+<h3>💎 JafarStore</h3>
 
-A MERN-based jewellery store platform with separate Admin, Store and Customer workflows.
+<p>
+<b>MERN Jewellery Store Platform</b>
+</p>
 
-**Tech:** React • Node.js • Express • MongoDB
+<p>
+A full-stack jewellery store platform designed around separate Admin, Store and Customer workflows.
+</p>
 
-**Highlights**
-- Admin management
-- Store inventory
-- Customer profiles
-- Collections
-- Cart & favourites
-- Order workflow
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</p>
 
-<a href="https://github.com/sameer021000/JafarStore">View Repository →</a>
+<p><b>✨ Highlights</b></p>
+
+<ul>
+<li>👨‍💼 Admin Management</li>
+<li>📦 Store Inventory Management</li>
+<li>👤 Customer Profiles</li>
+<li>💍 Jewellery Collections</li>
+<li>🛒 Cart & Favourites</li>
+<li>📋 Order Workflow</li>
+</ul>
+
+<p>
+<a href="https://github.com/sameer021000/JafarStore">
+<img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 </td>
 </tr>
