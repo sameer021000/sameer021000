@@ -255,13 +255,17 @@ Exploring a **zero-cost, user-owned cloud storage approach** for NoteCalc backup
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameer021000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="Sameer's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer021000&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Sameer's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameer021000&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180" alt="Sameer's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer021000&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Sameer's Most Used Languages">
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer021000&theme=tokyonight&hide_border=true" alt="Sameer's GitHub Streak">
 </p>
+
+> 📌 GitHub's contribution graph is the source of truth for my contribution activity.  
+> **Current rolling 1-year contributions: 958**  
+> **2025 contributions: 313** • **2024: 9** • **2023: 1**
 
 ---
 
